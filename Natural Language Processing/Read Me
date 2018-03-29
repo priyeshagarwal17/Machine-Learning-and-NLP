@@ -1,0 +1,6 @@
+nltk is the most popular Python package for Natural Language processing.
+It provides algorithms for importing, cleaning, pre-processing text data in human language and then apply computational linguistics algorithms like sentiment analysis.
+
+In this notebook I :
+•	Created dictionary, analyzed text from a dataset of 2000 data files; Defined functions to get bag and frequency of words; Visualized frequency against word rank hence performed sentiment analysis by Naïve Bayes Classifier
+•	Data Cleaning: Tokenized words for issues hyphenated words and inconsistent use of punctuation by punkt (string punctuation.); Removed all stop-words like (“The”, “is”, “you”) from 1.5 Million to 700K in python
